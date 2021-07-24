@@ -6,15 +6,19 @@ testing
 Run in Local Environment:
 
 ```
-npm install
+---> npm install
 
-npm start
+---> npm start
 ```
 
-Build source code in Production:
+## Run testing environment before building the code
+
+ --> npm run test
+```
+## Build source code in Production:
 
 ```
-npm build
+---> npm build
 ```
 
 ## Contributions
