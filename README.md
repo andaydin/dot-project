@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-Run in Production:
+Build source code in Production:
 
 ```
 npm build
