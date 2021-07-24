@@ -3,7 +3,7 @@
 This is a react application for easy manipulation and use. <br />
 ## Getting Started
 testing
-Run in Local Environment:
+Install, set up and start source code of application in Local Environment:
 
 ```
 ---> npm install
@@ -11,8 +11,8 @@ Run in Local Environment:
 ---> npm start
 ```
 
-## Run testing environment before building the code
-
+## Run testing Environment before building the code
+```
  --> npm run test
 ```
 ## Build source code in Production:
