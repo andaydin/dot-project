@@ -1,16 +1,8 @@
-# Quick and Simple React Landing Page
+# React Application
 
-This is a very simple react landing page for easy manipulation and use. <br />
-Check out the demo [here](https://react-landing-page-two.now.sh/)
-
+This is a react application for easy manipulation and use. <br />
 ## Getting Started
-
-Clone the repository:
-
-```
-git clone https://github.com/000kelvin/react-landing-page.git
-```
-
+testing
 Run in Local Environment:
 
 ```
