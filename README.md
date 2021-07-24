@@ -2,7 +2,7 @@
 
 This is a react application for easy manipulation and use. <br />
 ## Getting Started
-testing
+
 Install, set up and start source code of application in Local Environment:
 
 ```
